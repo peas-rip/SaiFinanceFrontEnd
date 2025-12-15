@@ -121,7 +121,7 @@ export default function Index() {
                   <Instagram className="h-5 w-5 text-blue-700" />
                 </div>
                 <a
-                  href="https://www.instagram.com/srisai_financial_services"
+                  href="https://www.instagram.com/srisai_financialservices/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="font-medium hover:text-blue-700 transition-colors"
