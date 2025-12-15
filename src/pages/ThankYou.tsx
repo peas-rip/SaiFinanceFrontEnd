@@ -16,7 +16,7 @@ export default function ThankYou() {
             <img src={saiLogo} alt="Sai Financial Services" className="h-12 w-12 object-contain" />
             <div>
               <h1 className="text-xl font-bold text-foreground">Sai Financial Services</h1>
-              <p className="text-xs text-muted-foreground">Your Trusted Financial Partner</p>
+              
             </div>
           </div>
         </div>
@@ -94,7 +94,7 @@ export default function ThankYou() {
             <span className="font-semibold">Sai Financial Services</span>
           </div>
           <p className="text-sm text-muted-foreground">
-            © 2024 Sai Financial Services. All rights reserved.
+            © 2024 Sri Sai Financial Services. All rights reserved.
           </p>
         </div>
       </footer>
