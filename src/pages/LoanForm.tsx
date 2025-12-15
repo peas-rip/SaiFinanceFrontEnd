@@ -165,7 +165,7 @@ export default function LoanForm() {
         >
           <img src={saiLogo} className="h-12 w-12 object-contain" />
           <div>
-            <h1 className="text-xl font-bold">Sai Financial Services</h1>
+            <h1 className="text-xl font-bold">Sri Sai Financial Services</h1>
             <p className="text-xs text-muted-foreground">
               Your Trusted Financial Partner
             </p>
