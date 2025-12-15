@@ -136,10 +136,15 @@ export default function Index() {
                   <MapPin className="h-5 w-5 text-blue-700" />
                 </div>
                 <p className="text-muted-foreground leading-relaxed">
-                  Sri Sai Financial Services<br />
-                  Main Road, Bangalore<br />
-                  Karnataka – 5600XX
-                </p>
+  <span className="font-medium text-foreground">
+    Sri Sai Financial Services
+  </span>
+  <br />
+  Shri Ganesh Priya Complex, 2nd Floor<br />
+  LLR Road, Durgigudi<br />
+  Shivamogga, Karnataka – 577201
+</p>
+
               </div>
             </CardContent>
           </Card>
